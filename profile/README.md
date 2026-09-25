@@ -609,7 +609,7 @@ We review, refine, and deliver work aligned with the project requirements.
   📸 <strong>Instagram:</strong>
   <a href="https://www.instagram.com/digi_hust/">@digi_hust</a>
   <br>
-  &nbsp;𝕏 <strong>Twitter/X:</strong>
+  &nbsp;𝕏 <strong>&nbsp;Twitter/X:</strong>
   <a href="https://x.com/DigiHust">DigiHust</a>
   <br>
   🧵 <strong>Threads:</strong>
