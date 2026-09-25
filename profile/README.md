@@ -16,6 +16,7 @@
 <h1 align="center">
   <strong>DigiHust</strong>
 </h1>
+
 <h3 align="center">Your Digital Team, Without the Hassle.</h3>
 
 <p align="center">
@@ -511,8 +512,8 @@ We review, refine, and deliver work aligned with the project requirements.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="WordPress">
-  <img src="https://skillicons.dev/icons?i=woocommerce" height="45" alt="WooCommerce">
-  <img src="https://skillicons.dev/icons?i=shopify" height="45" alt="Shopify">
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="45" width="45" alt="WooCommerce">
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="45" width="45" alt="Shopify">
   <img src="https://skillicons.dev/icons?i=webflow" height="45" alt="Webflow">
 </p>
 
@@ -533,8 +534,8 @@ We review, refine, and deliver work aligned with the project requirements.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python">
-  <img src="https://skillicons.dev/icons?i=pandas" height="45" alt="Pandas">
-  <img src="https://skillicons.dev/icons?i=numpy" height="45" alt="NumPy">
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" width="45" alt="Pandas">
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" width="45" alt="NumPy">
   <img src="https://skillicons.dev/icons?i=matlab" height="45" alt="MATLAB">
 </p>
 
@@ -550,7 +551,7 @@ We review, refine, and deliver work aligned with the project requirements.
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code">
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman">
   <img src="https://skillicons.dev/icons?i=notion" height="45" alt="Notion">
-  <img src="https://skillicons.dev/icons?i=trello" height="45" alt="Trello">
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="45" width="45" alt="Trello">
 </p>
 
 ---
@@ -629,6 +630,11 @@ We review, refine, and deliver work aligned with the project requirements.
   📧 <strong>Gmail:</strong>
   <a href="mailto:digihust@gmail.com">digihust@gmail.com</a>
 </p>
+
+<p align="center">
+  ☀️ <strong>Switch to Light Mode</strong> to rise with the sun · 🌙 <strong>Switch to Dark Mode</strong> to embrace the night
+</p>
+
 <p align="center">
   <a href="https://www.digihust.tech">
     <img src="https://img.shields.io/badge/Visit%20DigiHust-27F5EB?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" width="160" alt="Visit DigiHust">
