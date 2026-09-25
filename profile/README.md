@@ -13,7 +13,9 @@
   </picture>
 </p>
 
-<h1 align="center">DigiHust 🚀</h1>
+<h1 align="center">
+  <strong>DigiHust</strong>
+</h1>
 <h3 align="center">Your Digital Team, Without the Hassle.</h3>
 
 <p align="center">
